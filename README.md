@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZenFox1
 - 👀 I’m interested in coding and love to learn new prgramming languages.
-- 🌱 I’m currently learning python, typescript and creating a local symfony project to learn how it works.
+- 🌱 I’m currently learning JSF and symfony on a local project to learn how it works.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
